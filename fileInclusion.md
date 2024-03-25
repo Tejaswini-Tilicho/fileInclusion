@@ -2,11 +2,6 @@
 
 ### A class named FileInclusion is taken.
 
-
-### todos
-- Move the code into the triple back ticks and remove the br tags inside the code
-- Move the explanation to top
-
 ### **Explanation**
 
 * **readFile()** -> this is the function which is primarily used to read data of a specific file.
@@ -17,8 +12,8 @@
 <br>
 Now, an object is created in the following way and gets executionCode() function accessible. <br>
 <br>
-`var fileInclusion = new FileInclusion();` <br>
-`fileInclusion.executionCode();`
+var fileInclusion = new FileInclusion(); <br>
+fileInclusion.executionCode();
 
 ### **Code Structure**
 
